@@ -1,6 +1,6 @@
 {
   "name": "parse-directorys",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "parse directorys to an object",
   "main": "index.js",
   "scripts": {
